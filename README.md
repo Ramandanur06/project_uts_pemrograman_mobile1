@@ -1,6 +1,7 @@
 # project_uts_pemrograman_mobile1
-*Nama  : Ramanda Nur Arijudin
-
+Nama  : Ramanda Nur Arijudin
+Kelas  : TI.23.A2
+NIM  : 312310186
 ![Cuplikan layar 2024-11-11 195927](https://github.com/user-attachments/assets/560cdcda-37ed-4fe8-843d-74dcd76058f2)
 ![Cuplikan layar 2024-11-11 195940](https://github.com/user-attachments/assets/2d4fdf14-6dd7-4151-a86a-e6faa8418131)
 ![Cuplikan layar 2024-11-11 195950](https://github.com/user-attachments/assets/c10e0aee-a4c1-4364-be64-f293619108da)
